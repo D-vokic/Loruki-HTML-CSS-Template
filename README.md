@@ -1,4 +1,4 @@
-# Front-end-development
+# Loruki Project
 
 Hi, I am Duško. 
 
@@ -19,3 +19,5 @@ These are my first projects available on GitHub.
 I hope not the last.
 
 I’m currently learning JavaScript.
+
+This is my first project done in pure HTML And CSS.
