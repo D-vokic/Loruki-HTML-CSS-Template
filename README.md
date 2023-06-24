@@ -2,6 +2,9 @@
 
 Hi, I am Duško. 
 
+![Hi](https://github.com/Duskorsl/Front-end-development/assets/105879280/c6ce2714-e75c-48d1-a0f0-2792f5bfbfdc)
+
+
 Front-end developer and high school teacher. 
 
 A Few Interesting Facts at the beginning. 
