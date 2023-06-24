@@ -134,7 +134,7 @@ nav ul li a:hover + .podvuceno {
 .banner article p {
   color: var(--whiteColor);
   font-weight: 300;
-  width: 500px; /* prelomio sam pasus u dva reda smanjivanjem njegove sirine */
+  width: 500px; 
   margin-top: 1rem;
 }
 .banner article button {
@@ -167,7 +167,6 @@ nav ul li a:hover + .podvuceno {
   font-size: 1.5rem;
 }
 .banner article form input {
-  /* da se inputi poredjaju jedan ispod drugog-drugi nacin */
   display: block;
   width: 100%;
   border: none;
