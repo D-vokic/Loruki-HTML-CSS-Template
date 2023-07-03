@@ -1,4 +1,5 @@
 # Loruki Project
+ https://duskorsl.github.io/1-Loruki-HTML-CSS-Template/
 
 Hi, I am Duško. 
 
