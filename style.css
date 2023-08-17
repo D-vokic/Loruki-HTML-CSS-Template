@@ -17,6 +17,8 @@ DEFAULT STYLES STARTS
   margin: 0;
   padding: 0;
   transition: 0.5s linear;
+  list-style-type: none;
+  text-decoration: none;
 }
 
 body {
@@ -25,12 +27,7 @@ body {
   line-height: 1.5;
   background-color: var(--whiteColor);
 }
-a {
-  text-decoration: none;
-}
-ul {
-  list-style-type: none;
-}
+
 section {
   padding: 5rem 0;
 }
