@@ -1,9 +1,9 @@
 # Loruki Project
- https://duskorsl.github.io/1-Loruki-HTML-CSS-Template/
+ https://D-vokic.github.io/1-Loruki-HTML-CSS-Template/
 
 Hi, I am Duško. 
 
-![Hi](https://github.com/D-vokic/Front-end-development/assets/105879280/c6ce2714-e75c-48d1-a0f0-2792f5bfbfdc)
+![Hi](https://github.com/Duskorsl/Front-end-development/assets/105879280/c6ce2714-e75c-48d1-a0f0-2792f5bfbfdc)
 
 
 Front-end developer and high school teacher. 
