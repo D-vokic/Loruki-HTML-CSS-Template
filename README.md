@@ -1,5 +1,6 @@
 # Loruki Project
- https://D-vokic.github.io/1-Loruki-HTML-CSS-Template/
+
+Every developer starts somewhere — here’s my very first step. [Demo inside!](https://d-vokic.github.io/Loruki-HTML-CSS-Template/)
 
 Hi, I am Duško. 
 
